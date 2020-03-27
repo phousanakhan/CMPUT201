@@ -1,8 +1,5 @@
 # CMPUT201 Assignment 7: Debugging!
 
-* By: Han Phousanak
-* CCID: phousana
-* Student Number: 1596892
 
 # Sources
 * __StackOverflow_Link__
