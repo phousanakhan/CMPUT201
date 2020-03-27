@@ -1,8 +1,5 @@
 # CMPUT201 Assignment 6: Enums, Structs
 
-* By: Phousanak Han
-* CCID: phousana
-* Student Number: 1596892
 
 # Sources
 
